@@ -10,8 +10,6 @@ Were human and Errors and Omissions might happen, if you see any issues please a
 
 This is an open source game with a MIT licence at github, fair use does apply. 
 
-In no way shape and form do we advise anyone that this is an investment opportunity, If you are looking for investments then please seek legal advice, monoGames is a play to earn gaming ecosystem where people like to have fun playing games. 
-
 monoGames makes confidentiality its number one priority, any correspondence in emails that occurs between monoGames and players will be treated with strict guidelines to ensure monoGames and players have privacy and confidence to deal with any issues players have. 
 
 Use at your won risk, it is just a game and if you have any questions please seek legal advice or talk to us at our <a href="https://discord.gg/5V4Y7y2gwV">discord</a> and we would be happy to answer any question pertaining monoGames but we dont give investment advice just assurances that we have a game people can play to earn and use those earnings in game. 
