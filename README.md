@@ -1,5 +1,7 @@
 Disclaimer
 
+The details in the monoGames project are subject to change and can change at anytime especially when the game is being upgraded.
+
 Views expressed by other people connected to monoGames belong solely to the author and not anything to do with monoGames. People are aloud freedom of speech and monoGames cant stop people from free speech.
 
 We take no responsibility from being held responsible for damages that happen from anyone, website, bugs, app’s, hackers and who ever wishes to damage this game. We try to implement best practices to reduce this problem and we may implement a monoGames insurance token to mitigate the problem. 
